@@ -2,6 +2,7 @@ import React from 'react';
 import {Route} from 'react-router-dom';
 import Home from './components/Home';
 
+//http://react-ssr-api.herokuapp.com/
 export default () => {
 
     return (
