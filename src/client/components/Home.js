@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div>
             <div>
-                Home
+                Home !!
                 <button onClick={() => console.log('hi')}>press me!</button>
             </div>
         </div>);
